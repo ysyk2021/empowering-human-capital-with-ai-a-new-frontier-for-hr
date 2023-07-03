@@ -6,16 +6,6 @@ Introduction
 
 Artificial intelligence (AI) has become a buzzword in recent years, and its impact on various industries is undeniable. The HR industry is no exception, as AI has the potential to revolutionize the way organizations manage their human capital. In this chapter, we will explore what AI is, how it works, and some examples of successful implementation of AI in HR.
 
-What is AI?
------------
-
-AI refers to the simulation of human intelligence in machines that are programmed to think and act like humans. It involves the development of algorithms and models that can process data, learn from it, and make decisions based on that learning. AI can be classified into two types: narrow or weak AI and general or strong AI. Narrow AI is designed to perform a specific task, while general AI can perform any intellectual task that a human can do.
-
-How does AI work?
------------------
-
-AI systems rely on three key components: data, algorithms, and computing power. Data is fed into the system, which uses algorithms to process and analyze it. The output is then used to make decisions or predictions. Machine learning (ML) is a subset of AI that involves training algorithms to learn from data and make predictions without being explicitly programmed.
-
 Examples of successful implementation of AI in HR
 -------------------------------------------------
 
