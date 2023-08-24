@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Applications in HR
-======================================================
 
 Artificial intelligence (AI) is transforming the way we work, and human resources (HR) is no exception. In this chapter, we will explore what AI is and how it can be applied in HR.
 

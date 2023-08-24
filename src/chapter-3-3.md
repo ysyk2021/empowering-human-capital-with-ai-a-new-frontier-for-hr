@@ -1,5 +1,3 @@
-Setting Realistic Goals and Tracking Progress on Your HR Optimization Journey
-===============================================================================================================================
 
 Implementing an AI-powered HR strategy requires careful planning and goal-setting. In this chapter, we will explore how to design a successful AI-powered HR strategy by setting realistic goals and tracking progress on your optimization journey.
 

@@ -1,5 +1,3 @@
-Steps for Creating a Personalized HR Strategy
-===============================================================================================
 
 Implementing an AI-powered HR strategy requires a personalized approach that aligns with the specific needs and goals of your organization. In this chapter, we will explore steps for creating a personalized AI-powered HR strategy.
 

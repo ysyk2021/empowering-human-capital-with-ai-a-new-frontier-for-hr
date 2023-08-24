@@ -1,5 +1,3 @@
-Personalizing Talent Management with Machine Learning
-=====================================================================================================================
 
 Recruiting and talent management are critical functions of human resources (HR) that can be time-consuming and challenging. However, artificial intelligence (AI) has the potential to transform these processes by automating repetitive tasks, reducing bias, and improving decision-making.
 

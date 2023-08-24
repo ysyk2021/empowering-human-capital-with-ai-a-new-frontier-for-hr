@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 Artificial intelligence (AI) is transforming human resources (HR) practices and empowering human capital. By automating repetitive tasks, reducing bias, and improving decision-making, AI can help organizations optimize their HR strategies and enhance the employee experience.
 

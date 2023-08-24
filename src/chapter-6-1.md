@@ -1,5 +1,3 @@
-Addressing Concerns About Privacy and Security When Using AI in HR Practices
-===============================================================================================================================================================
 
 As organizations increasingly turn to artificial intelligence (AI) to transform their human resources (HR) practices, it is important to address concerns about data privacy and security. In this chapter, we will explore best practices for ensuring that the use of AI in HR aligns with ethical considerations around privacy and security.
 
@@ -22,5 +20,4 @@ Conclusion
 ----------
 
 Addressing concerns about data privacy and security is essential when using AI in HR practices. By developing clear policies and procedures, ensuring transparency and explainability, and monitoring and evaluating AI systems for bias or discrimination, organizations can ensure that the use of AI in HR aligns with ethical considerations around privacy and security.
-
 

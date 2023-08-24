@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-========================================================================================
 
 Artificial intelligence (AI) has become a buzzword in recent years, and its impact on the human resources (HR) industry is undeniable. In this chapter, we will explore what AI is and how it works, with a focus on its applications in HR.
 

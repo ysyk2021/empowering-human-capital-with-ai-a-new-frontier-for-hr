@@ -1,5 +1,3 @@
-The Role of AI in Human Resources
-===============================================
 
 Artificial intelligence (AI) is transforming the way organizations manage their human capital. In the field of human resources (HR), AI has the potential to optimize recruitment and talent management, improve decision-making, and enhance employee engagement.
 

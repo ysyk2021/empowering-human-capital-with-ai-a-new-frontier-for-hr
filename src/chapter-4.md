@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Employee Support
-========================================================================
 
 Providing personalized employee support is critical to the success of any organization. Advances in AI technology provide new opportunities for HR professionals to improve employee performance and development through machine learning-powered tools. In this chapter, we will explore how machine learning can be used to create personalized employee support.
 

@@ -1,5 +1,3 @@
-Future Developments and Trends in AI-Powered HR
-==================================================================================================================================
 
 As artificial intelligence (AI) continues to transform human resources (HR) practices, it is important for organizations to stay up-to-date with future developments and trends in AI-powered HR. In this chapter, we will explore some of the key future developments and trends in AI-powered HR.
 

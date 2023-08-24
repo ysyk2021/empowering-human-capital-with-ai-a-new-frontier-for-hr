@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered HR Strategy
-================================================
 
 Designing an effective AI-powered HR strategy requires careful planning and consideration of key factors such as personalized HR goals, integrated AI-powered tools for tracking and reflecting on employee data, and realistic goals with progress tracking. In this chapter, we will explore these factors in more detail.
 

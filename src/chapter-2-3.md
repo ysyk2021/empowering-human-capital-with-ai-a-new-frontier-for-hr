@@ -1,8 +1,3 @@
-Examples of successful implementation of AI in HR
-=========================================================================================================
-
-Introduction
-------------
 
 Artificial intelligence (AI) has become a buzzword in recent years, and its impact on various industries is undeniable. The HR industry is no exception, as AI has the potential to revolutionize the way organizations manage their human capital. In this chapter, we will explore what AI is, how it works, and some examples of successful implementation of AI in HR.
 

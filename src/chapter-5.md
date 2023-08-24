@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Recruitment and Talent Management with AI
-==============================================================
 
 Recruiting and managing top talent is critical to the success of any organization. Advances in AI technology provide new opportunities for HR professionals to improve recruitment and talent management processes. In this chapter, we will explore how machine learning can be used to enhance recruitment and talent management.
 

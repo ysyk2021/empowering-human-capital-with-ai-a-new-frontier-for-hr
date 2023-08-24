@@ -1,5 +1,3 @@
-Common Applications of AI in HR, Including Recruitment and Performance Management
-=========================================================================================================================================
 
 Artificial intelligence (AI) has the potential to significantly impact the way organizations manage their human capital. In this chapter, we will explore common applications of AI in HR, with a focus on recruitment and performance management.
 

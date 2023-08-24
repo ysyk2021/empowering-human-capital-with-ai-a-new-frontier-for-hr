@@ -1,5 +1,3 @@
-Machine Learning-Powered Virtual Assistants for Employee Support
-==========================================================================================================================================
 
 In today's fast-paced business environment, providing timely and effective employee support is critical to the success of any organization. Advances in AI technology provide new opportunities for HR professionals to provide personalized support to employees through machine learning-powered virtual assistants. In this chapter, we will explore how machine learning can be used to create virtual assistants that provide personalized employee support.
 
