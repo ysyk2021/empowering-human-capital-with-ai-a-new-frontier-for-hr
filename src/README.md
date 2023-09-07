@@ -10,3 +10,7 @@ But "Empowering Human Capital with AI" is more than just a technical manual. It 
 Whether you are a seasoned HR professional or just beginning your career, "Empowering Human Capital with AI" is an essential resource for anyone interested in leveraging AI to optimize their human capital management practices. With practical advice, real-world examples, and expert insights, this book is a must-read for anyone looking to stay ahead of the curve and drive success through effective human capital management.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
