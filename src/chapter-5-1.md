@@ -1,5 +1,4 @@
-Chapter 6: Using Machine Learning-Powered Candidate Screening and Evaluation
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The recruitment process, once traditionally governed by manual reviews and intuition, has undergone a seismic shift. Machine Learning (ML) has introduced a paradigm where large volumes of applications can be screened effectively and rapidly. This chapter will delve into the mechanics, benefits, and ethical considerations of using ML for candidate screening and evaluation.
 

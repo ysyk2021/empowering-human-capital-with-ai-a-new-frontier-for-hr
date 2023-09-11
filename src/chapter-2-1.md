@@ -1,5 +1,4 @@
-Chapter 2: What is AI and How Does it Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts of Artificial Intelligence (AI) and explore how it operates, setting the stage for understanding its role in revolutionizing HR practices.
 

@@ -1,5 +1,4 @@
-Chapter 6: Personalizing Talent Management with Machine Learning
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting realm of personalizing talent management through the application of Machine Learning (ML) in Human Resources. By harnessing ML algorithms, organizations can tailor their talent management strategies to the unique needs and potential of each employee, unlocking new possibilities for human capital optimization.
 

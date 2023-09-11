@@ -1,5 +1,4 @@
-Chapter 7: Setting Realistic Goals and Tracking Progress on Your HR Optimization Journey
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of Human Resources (HR), harnessing the power of Artificial Intelligence (AI) presents boundless opportunities. However, to navigate this transformative journey successfully, HR professionals must establish clear, achievable goals and implement robust progress-tracking mechanisms. This chapter explores the essential steps in setting realistic goals and monitoring your HR optimization journey's advancement.
 

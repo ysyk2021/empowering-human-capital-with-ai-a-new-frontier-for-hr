@@ -1,5 +1,4 @@
-Chapter 9: Steps for Creating a Personalized HR Strategy
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of AI-driven HR transformation, creating a personalized HR strategy is imperative for optimizing human capital management. This chapter explores the essential steps in tailoring your HR approach to meet the unique needs of your organization and its workforce.
 

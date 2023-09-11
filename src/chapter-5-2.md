@@ -1,5 +1,4 @@
-Chapter 5: AI-Powered Tools for Creating Inclusive Job Postings and Reducing Bias
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving job market, organizations are increasingly recognizing the importance of diversity and inclusion. A diverse workforce not only fosters innovation but also reflects the values of equality and fairness. However, unconscious bias in the hiring process can hinder diversity efforts. Fortunately, AI-powered tools offer a promising solution by helping to create inclusive job postings and reduce bias throughout the hiring process.
 

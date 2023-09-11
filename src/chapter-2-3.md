@@ -1,5 +1,4 @@
-Chapter 5: Examples of Successful Implementation of AI in HR
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world case studies and examples of organizations that have successfully implemented AI in their HR practices, showcasing the transformative potential of AI in optimizing human capital management.
 

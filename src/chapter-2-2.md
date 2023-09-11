@@ -1,5 +1,4 @@
-Chapter 4: Common Applications of AI in HR, Including Recruitment and Performance Management
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore some of the most common and impactful applications of Artificial Intelligence (AI) in the field of Human Resources, with a specific focus on recruitment and performance management.
 

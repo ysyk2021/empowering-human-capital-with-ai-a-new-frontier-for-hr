@@ -1,5 +1,4 @@
-Chapter 8: Future Developments and Trends in AI-Powered HR
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting frontier of AI-powered HR and delve into the emerging trends and future developments that promise to revolutionize the world of human resources. As technology continues to advance, HR professionals must stay informed and adapt to these transformative changes.
 

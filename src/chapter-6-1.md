@@ -1,5 +1,4 @@
-Chapter 9: Addressing Concerns About Privacy and Security When Using AI in HR Practices
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical considerations surrounding privacy and security when harnessing AI in HR practices. While AI offers transformative benefits, it also raises significant concerns about the protection of sensitive employee data and the ethical use of technology.
 

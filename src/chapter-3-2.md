@@ -1,5 +1,4 @@
-Chapter 8: Integrating AI-Powered Tools for Tracking and Reflecting on Employee Data
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of optimizing human capital management, integrating AI-powered tools for tracking and reflecting on employee data is a critical frontier for HR. This chapter explores the transformative potential of AI-driven data tracking and analysis in managing and developing your workforce effectively.
 
